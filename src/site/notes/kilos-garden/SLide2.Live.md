@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kilos-garden/s-lide2-live/"}
+{"dg-publish":true,"permalink":"/kilos-garden/s-lide2-live/","tags":["gardenEntry"]}
 ---
 
 
-L
