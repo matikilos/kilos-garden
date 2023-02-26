@@ -3,4 +3,6 @@
 ---
 
 
-시작
+# Slide2.live Labs
+
+- Home : https://kilos-garden.vercel.app/
